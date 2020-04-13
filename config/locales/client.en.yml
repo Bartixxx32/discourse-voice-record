@@ -1,7 +1,7 @@
 en:
   js:
     composer:
-      composer_audio_upload_button_title:  "Record & upload audio file"
+      composer_audio_upload_button_title:  "Nagraj i prześlij plik audio"
     composer_audio_upload:
-      button_text: "Record & upload audio"
-      title: "Record & upload audio"
+      button_text: "Nagraj i prześlij plik audio"
+      title: "Nagraj i prześlij plik audio"
